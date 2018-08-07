@@ -154,3 +154,4 @@ UP = 0
 #    #####WRITE YOUR CODE HERE
 
 
+turtle.mainloop()
